@@ -11,7 +11,7 @@ WS: https://docs.gemini.com/websocket-api/
 
 ### REST
 
-- [ ] Public 
+- [X] Public 
 - [ ] Order Placements
 	- [ ] New Order
 	- [ ] Cancel Order
