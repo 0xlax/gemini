@@ -14,9 +14,9 @@ WS: https://docs.gemini.com/websocket-api/
 - [X] Public 
 - [X] Order Placements
 	- [X] New Order
-- [ ] Order Status
-	- [ ] Get active orders
-	- [ ] Get past traders
+- [X] Order Status
+	- [X] Get active orders
+	- [X] Get past traders
 - [ ] Fee and Volums
 	- [ ] Get notional volume
 	- [ ] Get trade volume
