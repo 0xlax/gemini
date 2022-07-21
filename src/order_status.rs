@@ -1,5 +1,5 @@
 use crate::utils;
-use crate::GeminiClient;
+use crate::Options;
 use serde::Deserialize;
 use serde_json::json;
 
