@@ -17,28 +17,14 @@ WS: https://docs.gemini.com/websocket-api/
 - [X] Order Status
 	- [X] Get active orders
 	- [X] Get past traders
-- [ ] Fee and Volums
-	- [ ] Get notional volume
-	- [ ] Get trade volume
-- [ ] FX Rate
+- [X] Fee and Volums
+	- [X] Get notional volume
+	- [X] Get trade volume
 - [ ] Clearing
 	- [ ] New Clearing order
 	- [ ] New broker order
 	- [ ] Cancel clearning order
 	- [ ] Confirm clearning order
-- [ ] Fund Management
-	- [ ] Get available Balances
-	- [ ] Get notional balances
-	- [ ] Get deposit addresses
-	- [ ] New deposit address
-- [ ] Gemini Earn
-	- [ ] Get earm balances
-	- [ ] Get earn rates
-	- [ ] Get earn interest
-	- [ ] Get earn history
-- [ ] Approved Address
-- [ ] Account Administration
-- [ ] Session
 
 ### Websokets
 - [ ] Order Events
