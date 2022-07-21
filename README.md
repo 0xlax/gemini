@@ -12,6 +12,7 @@ WS: https://docs.gemini.com/websocket-api/
 ### REST
 
 - [X] Public 
+- [X] Order Placements
 	- [X] New Order
 - [ ] Order Status
 	- [ ] Get active orders
